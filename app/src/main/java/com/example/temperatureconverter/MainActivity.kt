@@ -44,5 +44,6 @@ class MainActivity : AppCompatActivity() {
             celsiusTem.getText().clear()
             fahrenheitTemp.getText().clear() }
 
+
     }
 }
